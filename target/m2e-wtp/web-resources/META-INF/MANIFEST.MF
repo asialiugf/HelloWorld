@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Implementation-Title: HelloWorld
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: ikeluo
+Built-By: GD-0103-0121
 Implementation-Vendor-Id: com.hw
 Build-Jdk: 1.8.0_181
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
